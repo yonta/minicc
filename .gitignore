@@ -1,3 +1,8 @@
+# User additional
+minicc
+tmp
+tmp.s
+
 # Prerequisites
 *.d
 
